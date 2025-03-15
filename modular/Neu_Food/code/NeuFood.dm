@@ -99,7 +99,7 @@
 	desc = "Traditional utensil for stabbing your food in order to shove it into your mouth."
 	icon = 'modular/Neu_Food/icons/cooking.dmi'
 	icon_state = "fork_wooden"
-	force = 0
+	force = 1
 	w_class = WEIGHT_CLASS_TINY
 
 /obj/item/kitchen/fork/ironfork
