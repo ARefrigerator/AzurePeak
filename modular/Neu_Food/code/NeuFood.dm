@@ -231,7 +231,7 @@
 	reagent_flags = TRANSPARENT
 
 /obj/item/cooking/platter
-	name = "platter"
+	name = "platter test"
 	desc = "For holding meals fit for kings."
 	icon = 'modular/Neu_Food/icons/cooking.dmi'
 	lefthand_file = 'modular/Neu_Food/icons/food_lefthand.dmi'
